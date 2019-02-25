@@ -29,7 +29,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "babel-plugin-styled-components": "^1.10.0"
+    "babel-plugin-styled-components": "^1.10.0",
+    "webpack": "^4.29.5"
   },
   "plugins": [
     "babel-plugin-styled-components"

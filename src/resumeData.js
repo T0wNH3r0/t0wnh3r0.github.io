@@ -45,26 +45,26 @@ let resumeData = {
     }
   ],
   work: [
-    {
-      CompanyName: 'OneBeacon',
-      specialization: 'Programmer Analyst',
-      MonthOfLeaving: '-',
-      YearOfLeaving: '-',
-      Achievements: 'Some Achievements'
-    },
+    // {
+    //   CompanyName: 'OneBeacon',
+    //   specialization: 'Programmer Analyst',
+    //   MonthOfLeaving: '-',
+    //   YearOfLeaving: '-',
+    //   Achievements: 'Achievements'
+    // },
     {
       CompanyName: 'Ozmo',
       specialization: 'Software Engineer',
       MonthOfLeaving: 'February',
       YearOfLeaving: '2019',
-      Achievements: 'Some Achievements'
+      Achievements: 'Achievements'
     },
     {
       CompanyName: 'City of Roanoke',
       specialization: 'Application Developer',
       MonthOfLeaving: 'August',
       YearOfLeaving: '2018',
-      Achievements: 'Some Achievements'
+      Achievements: 'Achievements'
     }
   ],
   skillsDescription: 'Your skills here',

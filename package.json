@@ -1,5 +1,5 @@
 {
-  "homepage": "https://t0wnh3r0.github.io/T0wNH3r0.github.io",
+  "homepage": "https://t0wnh3r0.github.io/",
   "name": "resume",
   "version": "0.1.0",
   "private": true,
@@ -20,8 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

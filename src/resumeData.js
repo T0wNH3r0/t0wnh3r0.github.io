@@ -92,7 +92,7 @@ let resumeData = {
     {
       name: "Setta's Place",
       description: 'online store',
-      imgUrl: 'images/portfolio/origami.jpg',
+      imgUrl: 'images/portfolio/throw.jpg',
       imgTitle: '',
       alt: '',
       url: 'https://settasplace.com/'

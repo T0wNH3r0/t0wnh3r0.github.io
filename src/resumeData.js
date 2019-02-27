@@ -24,7 +24,7 @@ let resumeData = {
   ],
   aboutme:
     'I am software engineer with a passion for design.',
-  email: 'info@kevin-laws.com',
+  email: 'kevinlaws.dev@gmail.com',
   education: [
     {
       UniversityName: 'Virginia Western',

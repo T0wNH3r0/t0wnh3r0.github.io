@@ -22,7 +22,7 @@ let resumeData = {
       className: 'fab fa-twitter'
     }
   ],
-  aboutme: 'I am software engineer with a passion for design.',
+  aboutme: 'I am software engineer with a passion for design and smarthomes.',
   email: 'kevinlaws.dev@gmail.com',
   education: [
     {

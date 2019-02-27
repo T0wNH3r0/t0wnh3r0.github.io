@@ -41,16 +41,6 @@ export default class Header extends Component {
                   Recommendations
                 </a>
               </li>
-              {/* <li>
-                <a className="smoothscroll" href="#testimonials">
-                  Testimonials
-                </a>
-              </li> */}
-              <li>
-                <a className="smoothscroll" href="#contact">
-                  Contact
-                </a>
-              </li>
             </ul>
           </nav>
 

@@ -1,9 +1,8 @@
 let resumeData = {
-  imagebaseurl: 'https://',
+  imagebaseurl: 'https://t0wnh3r0.github.io',
   name: 'Kevin Laws',
   role: 'Software Engineer',
   linkedinId: 'kevin-laws-82748757',
-  skypeid: 'Your skypeid',
   roleDescription:
     'I am experienced with React, Web Design, C#, .NET MVC, Bootstrap, Javascript, SQL and all stages of development. Strong background in UI/UX and front end development.',
   socialLinks: [
@@ -26,45 +25,36 @@ let resumeData = {
   aboutme:
     'I am software engineer with a passion for design.',
   email: 'info@kevin-laws.com',
-  address: 'Roanoke, Virginia',
-  website: 'kevin-laws.com',
   education: [
     {
       UniversityName: 'Virginia Western',
       specialization: 'Web Programming',
       MonthOfPassing: 'Aug',
       YearOfPassing: '2013',
-      Achievements: 'Some Achievements'
+      Achievements: ''
     },
     {
       UniversityName: 'Virginia Western',
       specialization: 'Database & Program Development',
       MonthOfPassing: 'Jan',
       YearOfPassing: '2015',
-      Achievements: 'Some Achievements'
+      Achievements: ''
     }
   ],
   work: [
-    // {
-    //   CompanyName: 'OneBeacon',
-    //   specialization: 'Programmer Analyst',
-    //   MonthOfLeaving: '-',
-    //   YearOfLeaving: '-',
-    //   Achievements: 'Achievements'
-    // },
     {
       CompanyName: 'Ozmo',
       specialization: 'Software Engineer',
       MonthOfLeaving: 'February',
       YearOfLeaving: '2019',
-      Achievements: 'Achievements'
+      Achievements: ''
     },
     {
       CompanyName: 'City of Roanoke',
       specialization: 'Application Developer',
       MonthOfLeaving: 'August',
       YearOfLeaving: '2018',
-      Achievements: 'Achievements'
+      Achievements: ''
     }
   ],
   skillsDescription: 'Your skills here',
@@ -91,16 +81,16 @@ let resumeData = {
   portfolio: [
     {
       name: "Setta's Place",
-      description: 'online store',
-      imgUrl: 'images/portfolio/throw.jpg',
-      imgTitle: '',
+      description: 'e-commerce store for selling hand-made crochet items',
+      imgUrl: '',
+      imgTitle: '../../images/throw.jpg',
       alt: '',
       url: 'https://settasplace.com/'
     },
     {
       name: '37th Annual Parlor Tour',
-      description: 'First SmartHome to appear on this annual parlor tour.',
-      imgUrl: 'images/portfolio/console.jpg',
+      description: 'First SmartHome to appear on this annual neighborhood parlor tour.',
+      imgUrl: '',
       imgTitle: '',
       alt: '',
       url:
@@ -112,77 +102,77 @@ let resumeData = {
       name: 'Smart Hub',
       description: 'Samsung SmartThings',
       imgurl: 'home',
-      url: ''
+      url: 'https://www.smartthings.com'
     },
     {
       name: 'Door & Window Sensors',
       description: 'Ecolink',
       imgurl: 'exchange-alt',
-      url: ''
+      url: 'https://www.amazon.com/dp/B01N5HB4U5/ref=cm_sw_em_r_mt_dp_U_orEDCb6NE9F1K'
     },
     {
       name: 'Motion Detection',
       description: 'Ecolink',
       imgurl: 'sign-language',
-      url: ''
+      url: 'https://www.amazon.com/dp/B01MQXXG0I/ref=cm_sw_em_r_mt_dp_U_utEDCbY72X1W9'
     },
     {
       name: 'Lighting',
       description: 'Philips Hue',
       imgurl: 'lightbulb',
-      url: ''
+      url: 'https://www2.meethue.com/en-us'
     },
     {
       name: 'Switches',
       description: 'Wemo',
       imgurl: 'plug',
-      url: ''
+      url: 'https://www.wemo.com/products/'
     },
     {
       name: 'Smart Router',
       description: 'Google Wifi',
       imgurl: 'wifi',
-      url: ''
+      url: 'https://store.google.com/us/product/google_wifi?hl=en-US'
     },
     {
       name: 'Voice Assistant',
       description: 'Google Home',
       imgurl: 'microphone',
-      url: ''
+      url: 'https://store.google.com/us/product/google_home?hl=en-US'
     },
     {
       name: 'Voice Assistant',
       description: 'Alexa',
       imgurl: 'microphone',
-      url: ''
+      url: 'https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011'
     },
     {
       name: 'Thermostat',
       description: 'Ecobee',
       imgurl: 'thermometer-half',
-      url: ''
+      url: 'https://www.ecobee.com'
     },
     {
       name: 'Smart Vents',
       description: 'Keen Home',
       imgurl: 'wind',
-      url: ''
+      url: 'https://keenhome.io'
     },
     {
       name: 'Smart Shades',
       description: 'Bali Blinds',
       imgurl: 'align-justify',
-      url: ''
+      url: 'https://www.baliblinds.com/motorization/'
     }
   ],
   testimonials: [
     {
-      description: 'This is a sample testimonial',
-      name: 'Some technical guy'
+      description: '',
+      name: ''
     },
     {
-      description: 'This is a sample testimonial',
-      name: 'Some technical guy'
+      description: '',
+      name: ''
     }
   ]
 };

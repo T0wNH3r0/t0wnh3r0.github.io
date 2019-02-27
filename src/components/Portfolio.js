@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import MediaCard from './MediaCard';
 import AutoGrid from './AutoGrid';
 export default class Porfolio extends Component {
   render() {

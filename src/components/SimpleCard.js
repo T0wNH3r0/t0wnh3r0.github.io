@@ -11,7 +11,7 @@ import classNames from 'classnames';
 
 const styles = {
   card: {
-    marginBottom:'1rem'
+    marginBottom: '1rem'
   },
   bullet: {
     display: 'inline-block',
@@ -29,28 +29,34 @@ const styles = {
 
 function SimpleCard(props) {
   const { classes, imgurl, name, description, url } = props;
-  const bull = <span className={classes.bullet}>•</span>;
-
   return (
     <Card className={classes.card}>
       <CardContent>
-          <Typography align={'center'}>
+        <Typography align={'center'}>
           <Icon
             className={classNames('fa fa-' + imgurl)}
             fontSize={'large'}
             aria-hidden={true}
           />
-          </Typography>
-          
-          <Typography className={classes.title} color="textSecondary" align={'center'}>
-            {name}
-          </Typography>
+        </Typography>
+        <Typography
+          className={classes.title}
+          color="textSecondary"
+          align={'center'}
+        >
+          {name}
+        </Typography>
         <Typography variant="headline" component="h2" align={'center'}>
-            {description}
-          </Typography>
+          {description}
+        </Typography>
       </CardContent>
       <CardActions>
-        <Button href={url} size="small">
+        <Button
+          href={url}
+          size="small"
+          target={'_blank'}
+          rel={'noopener noreferrer'}
+        >
           Learn More
         </Button>
       </CardActions>

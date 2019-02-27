@@ -6,9 +6,8 @@ import CardActionArea from '@material-ui/core/CardActionArea';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
-import { Button, Link } from '@material-ui/core';
+import { Button } from '@material-ui/core';
 import Typography from '@material-ui/core/Typography';
-import { isIterable } from 'core-js';
 
 const styles = {
   card: {
@@ -38,9 +37,6 @@ function MediaCard(props) {
         </CardContent>
       </CardActionArea>
       <CardActions>
-        {/* <Button size="small" color="primary">
-          Share
-        </Button> */}
         <Button href={url} size="small" color="primary" target={'_blank'}>
           Learn More
         </Button>

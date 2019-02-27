@@ -3,8 +3,6 @@ import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import Chip from '@material-ui/core/Chip';
 import Paper from '@material-ui/core/Paper';
-import classNames from 'classnames';
-import Icon from '@material-ui/core/Icon';
 
 const styles = theme => ({
   root: {

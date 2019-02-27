@@ -73,6 +73,7 @@ class ChipsArray extends React.Component {
               label={data.label}
               className={classes.chip}
               color={'secondary'}
+              style={{fontSize:'inherit'}}
             />
           );
         })}

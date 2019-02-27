@@ -22,8 +22,7 @@ let resumeData = {
       className: 'fab fa-twitter'
     }
   ],
-  aboutme:
-    'I am software engineer with a passion for design.',
+  aboutme: 'I am software engineer with a passion for design.',
   email: 'kevinlaws.dev@gmail.com',
   education: [
     {
@@ -89,7 +88,8 @@ let resumeData = {
     },
     {
       name: '37th Annual Parlor Tour',
-      description: 'First SmartHome to appear on this annual neighborhood parlor tour.',
+      description:
+        'First SmartHome to appear on this annual neighborhood parlor tour.',
       imgUrl: 'images/parlorTour.jpg',
       imgTitle: '',
       alt: '',
@@ -108,13 +108,15 @@ let resumeData = {
       name: 'Door & Window Sensors',
       description: 'Ecolink',
       imgurl: 'exchange-alt',
-      url: 'https://www.amazon.com/dp/B01N5HB4U5/ref=cm_sw_em_r_mt_dp_U_orEDCb6NE9F1K'
+      url:
+        'https://www.amazon.com/dp/B01N5HB4U5/ref=cm_sw_em_r_mt_dp_U_orEDCb6NE9F1K'
     },
     {
       name: 'Motion Detection',
       description: 'Ecolink',
       imgurl: 'sign-language',
-      url: 'https://www.amazon.com/dp/B01MQXXG0I/ref=cm_sw_em_r_mt_dp_U_utEDCbY72X1W9'
+      url:
+        'https://www.amazon.com/dp/B01MQXXG0I/ref=cm_sw_em_r_mt_dp_U_utEDCbY72X1W9'
     },
     {
       name: 'Lighting',
@@ -144,7 +146,8 @@ let resumeData = {
       name: 'Voice Assistant',
       description: 'Alexa',
       imgurl: 'microphone',
-      url: 'https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011'
+      url:
+        'https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011'
     },
     {
       name: 'Thermostat',
@@ -163,6 +166,12 @@ let resumeData = {
       description: 'Bali Blinds',
       imgurl: 'align-justify',
       url: 'https://www.baliblinds.com/motorization/'
+    },
+    {
+      name: 'Smoke/CO2',
+      description: 'First Alert',
+      imgurl: 'fire',
+      url: 'https://www.amazon.com/dp/B00KMHXFAI/ref=cm_sw_em_r_mt_dp_U_tSPDCbJCXSRHR'
     }
   ],
   testimonials: [

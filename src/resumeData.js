@@ -17,7 +17,7 @@ let resumeData = {
       className: 'fab fa-github'
     },
     {
-      name: 'skype',
+      name: 'twitter',
       url: 'https://twitter.com/KevinLawsDev',
       className: 'fab fa-twitter'
     }
@@ -81,16 +81,16 @@ let resumeData = {
   portfolio: [
     {
       name: "Setta's Place",
-      description: 'e-commerce store for selling hand-made crochet items',
-      imgUrl: '',
-      imgTitle: '../../images/throw.jpg',
+      description: 'E-commerce store for selling hand-made crochet items',
+      imgUrl: 'images/throw.jpg',
+      imgTitle: '',
       alt: '',
       url: 'https://settasplace.com/'
     },
     {
       name: '37th Annual Parlor Tour',
       description: 'First SmartHome to appear on this annual neighborhood parlor tour.',
-      imgUrl: '',
+      imgUrl: 'images/parlorTour.jpg',
       imgTitle: '',
       alt: '',
       url:

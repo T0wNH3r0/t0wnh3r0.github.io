@@ -4,7 +4,7 @@ let resumeData = {
   role: 'Software Engineer',
   linkedinId: 'kevin-laws-82748757',
   roleDescription:
-    'I am experienced with React, Web Design, C#, .NET MVC, Bootstrap, Javascript, SQL and all stages of development. Strong background in UI/UX and front end development.',
+    'I am a Software Engineer experienced with React, Web Design, C#, .NET MVC, Bootstrap, Javascript, SQL and all stages of development. Strong background in UI/UX and front end development.',
   socialLinks: [
     {
       name: 'linkedin',

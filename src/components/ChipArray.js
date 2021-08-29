@@ -20,22 +20,23 @@ const styles = theme => ({
 class ChipsArray extends React.Component {
   state = {
     chipData: [
-      { icon: 'star', label: 'React' },
+      { icon: 'star', label: 'Angular' },
       { icon: 'star', label: 'C#' },
-      { icon: 'star', label: 'MVC' },
+      { icon: 'star', label: 'Typescript' },
       { label: 'Javascript' },
       { label: 'HTML5' },
       { label: 'CSS' },
       { icon: 'star', label: 'SQL' },
-      { label: 'SSRS' },
-      { label: 'Bootstrap' },
-      { label: 'Java' },
-      { label: 'Entity Framework' },
-      { label: 'Git' },
-      { label: 'Web Applications' },
-      { label: 'Web Design' },
       { label: 'User Interface Design' },
-      { label: 'Agile & Waterfall' }
+      { label: 'Technical Leader' },
+      { label: 'Bootstrap' },
+      { label: '.NET' },
+      { label: 'Entity Framework' },
+      { label: 'React' },
+      { label: 'Git' },
+      { label: 'Web Design' },
+      { label: 'Agile' },
+      { label: 'Waterfall' }
     ]
   };
 

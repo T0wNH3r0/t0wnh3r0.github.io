@@ -35,8 +35,7 @@ class ChipsArray extends React.Component {
       { label: 'React' },
       { label: 'Git' },
       { label: 'Web Design' },
-      { label: 'Agile' },
-      { label: 'Waterfall' }
+      { label: 'Agile' }
     ]
   };
 
